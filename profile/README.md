@@ -18,7 +18,7 @@ Run the `.exe` file to start the application.
 A quick look at key parts in action:
 
 ![Main Workspace](https://img.utdstc.com/screen/cc3/532/cc353297f56bf522f49bf0bcc33a1b78068397cc0ca706a265475b696ecfc821:600)  
-![Arrangement View](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJN3Y2xE0Xa1frKUVrVnABNyugRUoRLWdmLw&s)  
+![Arrangement View](https://cdm.link/app/uploads/2023/11/1_Ableton-Live-12-1.png)  
 
 ---
 
